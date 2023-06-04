@@ -5,6 +5,5 @@ function popupHandler() {
 }
 
 document.getElementById("gotoChallengeBtn").addEventListener("click", function () {
-    window.open("/carousel.html", "_blank");
-
+    window.open("/Hackwarts/challenges.html", "_blank");
 });

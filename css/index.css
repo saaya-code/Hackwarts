@@ -97,6 +97,7 @@ h1 {
   margin: 0;
 }
 
+
 .hero-secondary {
   padding: 10px 0;
   font-size: 24px;
@@ -220,7 +221,7 @@ html{
 .footer {
   display: flex;
   justify-content: center;
-  padding: 20px;
+  padding: 5px;
 
 }
 
@@ -251,4 +252,8 @@ html{
   display: flex;
   align-items: center;
   gap: 20px;
+}
+
+.logo-louta{
+  height: 90px;
 }
